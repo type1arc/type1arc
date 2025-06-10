@@ -1,19 +1,30 @@
-/./ type1arc
-
-|- I’m interested in programming in general: video game development, library/API development, mathematical computation programming.
-
-|- speaking of the frameworks im comfortable with are: C++, Rust, .NET, C#, GLM, SDL, cocos-game-engine, SFML, some OpenGL, SDL2 along with unity and unreal game-dev.
-
-|- i can also edit videos and design illustrations.
-
-|- I’m currently learning things that interest me.
-
-|- I’m looking to collaborate on lore writing and projects involving forementioned themes.
-
-|- How to reach me check my profile for the links.
-
-|- Pronouns: he/him, x86/x64, dy/dx.
-
-|- Fun fact: im autistic. 
-
-/./
+📂 type1arc/
+ ├── 📄 about-me.md
+ │    ├── 🎮 I’m passionate about **programming**, especially:
+ │    │    ├── **Video game development**
+ │    │    ├── **Library/API development**
+ │    │    ├── **Mathematical computation programming**
+ │
+ ├── 📁 skills/
+ │    ├── 💻 Comfortable working with:
+ │    │    ├── **Languages:** C++, Rust, .NET, C#
+ │    │    ├── **Frameworks & Engines:** GLM, SDL, SDL2, SFML, cocos-game-engine, Unity, Unreal Engine
+ │    │    ├── **Graphics & Compute:** Some OpenGL
+ │
+ ├── 🎨 creative/
+ │    ├── ✨ I edit **videos** and design **illustrations**, blending technical expertise with creativity.
+ │
+ ├── 📚 learning/
+ │    ├── 🔍 Constantly exploring and learning **whatever I find cool**.
+ │
+ ├── 📝 collaboration/
+ │    ├── 🤝 Looking to collaborate on **lore writing** and projects related to my technical & creative passions.
+ │
+ ├── 📢 contact/
+ │    ├── 🔗 Check my **profile** for links to reach out.
+ │
+ ├── ⚙️ system-info/
+ │    ├── 🔧 **Pronouns:** he/him, x86/x64, dy/dx
+ │
+ ├── 🌟 fun-fact/
+ │    ├── 💡 I’m **autistic**
