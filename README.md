@@ -1,3 +1,4 @@
+```
 📂 type1arc/
  ├── 📄 about-me.md
  │    ├── 🎮 I’m passionate about **programming**, especially:
@@ -28,3 +29,4 @@
  │
  ├── 🌟 fun-fact/
  │    ├── 💡 I’m **autistic**
+```
