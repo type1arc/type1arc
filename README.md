@@ -5,27 +5,20 @@
     - **Video game development**
     - **Library/API development**
     - **Mathematical computation programming**
-  
 - 📁 **Technical Skills**
   - 💻 Comfortable with:
     - **Languages:** C++, Rust, .NET, C#
     - **Frameworks:** GLM, SDL, SDL2, SFML, cocos-game-engine, Unity, Unreal Engine
     - **Graphics:** Some OpenGL
-
-- 🎨 **Creative Abilities**
-  - ✨ I edit **videos** and design **illustrations**.
-
 - 📚 **Learning**
   - 🔍 Constantly exploring **whatever I find cool**.
-
 - 📝 **Collaboration**
   - 🤝 Looking to collaborate on **lore writing** and projects.
-
+- ♾️ **Miscellaneous**
+  - ✨ I can edit **videos**
 - 📢 **Contact**
   - 🔗 Check my **profile** for links.
-
 - ⚙️ **System Info**
   - 🔧 **Pronouns:** he/him, x86/x64, dy/dx
-
 - 🌟 **Fun Fact**
   - 💡 I’m **autistic**.
