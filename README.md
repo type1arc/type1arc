@@ -16,7 +16,6 @@
   - Looking to collaborate on projects.
 -  📁 **Contact**
   - 🔗 Check my **profile** for links.
-- info
-  - 🔧 **Pronouns:** he/him, x86/x64, dy/dx
-- 🌟 **Fun Fact**
-  - 💡 I’m **autistic**.
+- 📁 **info**
+  - 📂 **Pronouns:** he/him, x86/x64, dy/dx
+  - 📂 I’m **autistic**.
