@@ -1,24 +1,22 @@
 # 📂 type1arc
 
 - 📄 **About Me**
-  - 🎮 Passionate about:
+  - 📂 Passionate about:
     - **Video game development**
     - **Library/API development**
     - **Mathematical computation programming**
 - 📁 **Technical Skills**
-  - 💻 Comfortable with:
+  - 📂Comfortable with:
     - **Languages:** C++, Rust, .NET, C#
     - **Frameworks:** GLM, SDL, SDL2, SFML, cocos-game-engine, Unity, Unreal Engine
     - **Graphics:** Some OpenGL
-- 📚 **Learning**
-  - 🔍 Constantly exploring **whatever I find cool**.
-- 📝 **Collaboration**
-  - 🤝 Looking to collaborate on **lore writing** and projects.
-- ♾️ **Miscellaneous**
-  - ✨ I can edit **videos**
-- 📢 **Contact**
+- 📁 **Learning**
+  - Constantly exploring **whatever I find cool**.
+- **Collaboration**
+  - Looking to collaborate on projects.
+-  📁 **Contact**
   - 🔗 Check my **profile** for links.
-- ⚙️ **System Info**
+- info
   - 🔧 **Pronouns:** he/him, x86/x64, dy/dx
 - 🌟 **Fun Fact**
   - 💡 I’m **autistic**.
